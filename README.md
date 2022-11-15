@@ -20,4 +20,4 @@ t=list(map(int,input().split()))
 A=Triangle(s)       
 print(A.validate_triangle(s))
 B=Rectangle(t)
-print(B.validate_rectangle(t))self,lst):
+print(B.validate_rectangle(t))
